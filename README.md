@@ -20,11 +20,26 @@ Create `PROJECT_MEMORY/`, copy the three templates into it, and tell your coding
 
 AI coding sessions can lose working context, repeat already-solved bugs, or leave the next session unsure what is actually verified. These files make the handoff explicit and repo-local.
 
-## Full kit
+## Keep using the free starter when it answers your questions
 
-The paid **Project Memory + QA Lite** kit adds durable decisions, preventive lessons, regression contracts, release checks, a worked example, and a compact operating guide.
+Use the three templates first. At the next session, check whether you can identify the working state, reproduce the open bug, and pick one next action without rereading the whole chat. If you can, keep the free workflow.
 
-Paid product: https://rotemka.gumroad.com/l/project-memory-qa-lite
+## When the full kit helps
+
+**Disclosure: I make Project Memory + QA Lite.** The paid kit is for builders who also need to record why a decision was made, what a past bug taught them, and which checks a release must pass.
+
+| Need | Free starter | Paid v0.1 kit |
+| --- | --- | --- |
+| Current state, bugs, next-session handoff | Three templates | Included |
+| Decision reasons and lessons | Use your own notes | Dedicated templates |
+| Regression and release review | Use your existing checks | Dedicated templates |
+| Getting started | Instructions above | Quick Start and a fictional worked example |
+
+The **$19 download contains 11 Markdown files**: seven templates, two guides, a README and a license. It is manually maintained text, not software that runs tests or remembers conversations automatically. A purchase is not required to use this starter.
+
+[Review the full kit, current checkout price and license on Gumroad](https://rotemka.gumroad.com/l/project-memory-qa-lite?utm_source=github&utm_medium=organic_repo&utm_campaign=distribution_20261015&utm_content=starter_readme_comparison).
+
+The paid v0.1 license covers personal use and internal use within one purchasing business or team. It does not allow resale or supplying the pack to clients as a reusable deliverable.
 
 
 ## Example: make a bug fix survive the handoff
