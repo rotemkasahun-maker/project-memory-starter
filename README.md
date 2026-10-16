@@ -20,6 +20,10 @@ Create `PROJECT_MEMORY/`, copy the three templates into it, and tell your coding
 
 AI coding sessions can lose working context, repeat already-solved bugs, or leave the next session unsure what is actually verified. These files make the handoff explicit and repo-local.
 
+## Practical regression guide
+
+[Read the practical regression checklist for AI-generated code](docs/ai-coding-regression-checklist.md). It covers a baseline, five kinds of checks, a fictional duplicate-project defect and an evidence-based release decision. The guide is free; no paid kit or browser extension is required.
+
 ## Keep using the free starter when it answers your questions
 
 Use the three templates first. At the next session, check whether you can identify the working state, reproduce the open bug, and pick one next action without rereading the whole chat. If you can, keep the free workflow.
